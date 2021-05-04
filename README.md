@@ -6,3 +6,7 @@ Repository containing the Jupyter Notebooks and Scripts of the 3rd Data immersio
 
 Basics of Pandas, dataframe and some scientific concepts to contextualize with the dataset
 
+https://youtu.be/xGT2cuu5RPg
+
+
+
