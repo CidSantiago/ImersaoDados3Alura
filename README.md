@@ -8,5 +8,10 @@ Basics of Pandas, dataframe and some scientific concepts to contextualize with t
 
 https://youtu.be/xGT2cuu5RPg
 
+## Class 02
+
+Seaborn graphs, some statistical concepts and boxplots!
+
+https://youtu.be/lMzhxPrIxHU
 
 
