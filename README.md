@@ -15,3 +15,8 @@ Seaborn graphs, some statistical concepts and boxplots!
 https://youtu.be/lMzhxPrIxHU
 
 
+## Class 03
+
+Correlation, Causality and Heatmap Graphs!
+
+https://youtu.be/5pabJ4ztS88
