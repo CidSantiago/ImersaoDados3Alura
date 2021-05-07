@@ -20,3 +20,10 @@ https://youtu.be/lMzhxPrIxHU
 Correlation, Causality and Heatmap Graphs!
 
 https://youtu.be/5pabJ4ztS88
+
+
+## Class 04
+
+Results, merge and new foundings!
+
+https://youtu.be/meOsw7STwus
